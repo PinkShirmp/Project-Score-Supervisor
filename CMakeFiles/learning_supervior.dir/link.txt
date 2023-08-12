@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/learning_supervior.dir/src/main.cpp.o -o learning_supervior  /usr/local/lib/libpython3.10.a -lcrypt -ldl -lm 
